@@ -5,4 +5,3 @@ symbolu (częstość występowania pod warunkiem, że poprzedni znak jest dany, 
 (warunkowaną znajomością poprzedniego symbolu), oraz poda różnicę między nimi.
 Program ma działać z linii poleceń, czytać plik podany jako argument wywołania, oraz
 wypisywać wyniki w sposób czytelny i łatwy do dalszego przetwarzania.
-Przeanalizuj wyniki działania swojego programu dla przykładowych plików tekstowych,
